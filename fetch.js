@@ -29,7 +29,7 @@ function getValue(id){
         document.querySelector("#name1").innerHTML=Email;
     }
     else if(id=='dob'){
-        document.querySelector("#hii").innerText="Hi, My DOB is";
+        document.querySelector("#hii").innerText="Hi, My Age is";
         document.querySelector("#name1").innerHTML=Dob;
     }
     else if(id=='phone'){
